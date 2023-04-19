@@ -4,14 +4,10 @@ Caligraphy E-book Project aims to provide a comprehensive understanding of the a
 
 ## Table of Contents
 
-<details>
-
 - [Introduction](#introduction)
 - [Cover Image](#cover-image)
 - [Contributors](#contributors)
 - [Coyright](#copyright)
-
-</details>
 
 ## Introduction
 
@@ -19,9 +15,9 @@ This e-book is designed to introduce the beauty and significance of Vietnamese c
 
 ## Cover Image
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Cover-image/Cover-1.png" alt="Caligraphy E-book Cover Image">
-  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Cover-image/Cover-2.png" alt="Caligraphy E-book Cover Image">
+<div align="center">
+  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Cover-image/Cover-1.png" alt="Caligraphy E-book Cover Image" width="25%">
+  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Cover-image/Cover-2.png" alt="Caligraphy E-book Cover Image" width="25%">
 </div>
 
 ## Contributors
