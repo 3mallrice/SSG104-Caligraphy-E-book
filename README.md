@@ -20,8 +20,8 @@ This e-book is designed to introduce the beauty and significance of Vietnamese c
 ## Cover Image
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="caligraphy_ebook_cover.jpg" alt="Caligraphy E-book Cover Image">
-  <img src="caligraphy_ebook_cover.jpg" alt="Caligraphy E-book Cover Image">
+  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Cover-image/Cover-1.png" alt="Caligraphy E-book Cover Image">
+  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Cover-image/Cover-2.png" alt="Caligraphy E-book Cover Image">
 </div>
 
 ## Contributors
