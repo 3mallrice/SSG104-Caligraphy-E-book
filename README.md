@@ -31,6 +31,7 @@ The demo images included in our e-book provide readers with a better understandi
   <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-3.png" alt="Caligraphy E-book Demo Image" width="50%"></br>
   <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-4.png" alt="Caligraphy E-book Demo Image" width="50%">
 </div>
+
 ## Contributors
 
 - Nguyễn Hoàng Thái
