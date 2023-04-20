@@ -12,7 +12,7 @@ Caligraphy E-book Project aims to provide a comprehensive understanding of the a
 
 ## Introduction
 
-This e-book is designed to introduce the beauty and significance of Vietnamese calligraphy to readers. It covers various aspects of this traditional art form, including its history, techniques, and styles. By reading this e-book, readers will have a better understanding of Vietnamese culture and appreciate the value of this art form.
+This e-book is designed to introduce the beauty and significance of Vietnamese calligraphy to readers. It covers various aspects of this traditional art form, including its history, techniques, and styles. By reading this e-book, readers will have a better understanding of Vietnamese culture and appreciate the value of this art form. This e-book is written in Vietnamese.
 
 ## Cover Images
 
@@ -25,11 +25,12 @@ This e-book is designed to introduce the beauty and significance of Vietnamese c
 
 The demo images included in our e-book provide readers with a better understanding of Vietnamese calligraphy, offering a detailed and in-depth view into this art form. We hope that this collection conveys the full cultural value of Vietnamese calligraphy to our readers.
 
-<img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-1.png" alt="Caligraphy E-book Demo Image" width="50%">
-<img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-2.png" alt="Caligraphy E-book Demo Image" width="50%">
-<img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-3.png" alt="Caligraphy E-book Demo Image" width="50%">
-<img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-4.png" alt="Caligraphy E-book Demo Image" width="50%">
-
+<div align="center">
+  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-1.png" alt="Caligraphy E-book Demo Image" width="50%"></br>
+  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-2.png" alt="Caligraphy E-book Demo Image" width="50%"></br>
+  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-3.png" alt="Caligraphy E-book Demo Image" width="50%"></br>
+  <img src="https://github.com/maotou-spy/SSG104-Caligraphy-E-book/blob/main/Demo-image/demo-4.png" alt="Caligraphy E-book Demo Image" width="50%">
+</div>
 ## Contributors
 
 - Nguyễn Hoàng Thái
